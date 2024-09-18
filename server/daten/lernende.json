@@ -1,0 +1,81 @@
+[
+  {
+    "id": 101,
+    "vorname": "Hans",
+    "nachname": "Muster",
+    "bms": true,
+    "beruf_id": 2,
+    "betrieb": {
+      "firma": "Beispiel AG",
+      "kontakt": "Frau Sowieso",
+      "email": "anna.sowieso@beispiel.ch"
+    },
+    "kurse": {
+      "berufskunde": [
+        "M286",
+        "M287",
+        "M288",
+        "M307",
+        "usw."
+      ],
+      "allgemein": [
+        "Franz",
+        "Deutsch",
+        "Mathe",
+        "usw."
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "vorname": "Fritzli",
+    "nachname": "Muster",
+    "bms": false,
+    "beruf_id": 5,
+    "betrieb": {
+      "firma": "Beispiel AG",
+      "kontakt": "Herr Sowieso",
+      "email": "donald.sowieso@beispiel.ch"
+    },
+    "kurse": {
+      "berufskunde": [
+        "FiBu 1",
+        "RW Basics",
+        "OR",
+        "usw."
+      ],
+      "allgemein": [
+        "Franz",
+        "Deutsch",
+        "Mathe",
+        "usw."
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "vorname": "Anna",
+    "nachname": "Muster",
+    "bms": true,
+    "beruf_id": 1,
+    "betrieb": {
+      "firma": "Kantonsschule Hottingen",
+      "kontakt": "Herr Rektor",
+      "email": "herr.rektor@ksh.ch"
+    },
+    "kurse": {
+      "berufskunde": [
+        "M183",
+        "M150",
+        "M152",
+        "usw."
+      ],
+      "allgemein": [
+        "Franz",
+        "Deutsch",
+        "Mathe",
+        "usw."
+      ]
+    }
+  }
+]
